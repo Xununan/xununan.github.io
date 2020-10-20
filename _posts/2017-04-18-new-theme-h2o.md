@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Xununan的技术专栏'
-subtitle: '基于Jekyll主题的技术专栏'
+title: '基于Jekyll博客的测试'
+subtitle: '基于Jekyll主题'
 date: 2017-04-18
 categories: 技术
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
