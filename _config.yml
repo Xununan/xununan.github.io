@@ -56,7 +56,6 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  csdn: '//blog.csdn.net/weixin_45029526'
   github: '//github.com/Xununan'
 
 # Tags 设置标签
